@@ -11,3 +11,5 @@ It features simple failsafes for improper equations.
 
 This calculator utilizes the shunting yard algorithm for postfix handling of equations. 
 
+CalculatorV1 and CalculatorV2 are the unfinished prototypes of this project. 
+
